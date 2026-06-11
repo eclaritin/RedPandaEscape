@@ -1,5 +1,7 @@
 # ConsoleEngine (short overview)
 
+This is not the main ConsoleEngine repository. This is my ConsoleEngine as it was after I submitted my game, just refactored into multiple files.
+
 ## Organized into 3 namespaces
 
 1. `ConsoleEngine.Data` stores classes used to represent standalone 'things' in the game (like tiles & items) or raw information (like vectors).
