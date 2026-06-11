@@ -1,0 +1,18 @@
+/home/eclair/Projects/Games/Red Panda Escape/obj/Debug/net8.0/Red Panda Escape.GeneratedMSBuildEditorConfig.editorconfig
+/home/eclair/Projects/Games/Red Panda Escape/obj/Debug/net8.0/Red Panda Escape.AssemblyInfoInputs.cache
+/home/eclair/Projects/Games/Red Panda Escape/obj/Debug/net8.0/Red Panda Escape.AssemblyInfo.cs
+/home/eclair/Projects/Games/Red Panda Escape/obj/Debug/net8.0/Red Panda Escape.csproj.CoreCompileInputs.cache
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.GeneratedMSBuildEditorConfig.editorconfig
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.AssemblyInfoInputs.cache
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.AssemblyInfo.cs
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.csproj.CoreCompileInputs.cache
+/home/eclair/Projects/Games/RedPandaEscape/bin/Debug/net8.0/Red Panda Escape
+/home/eclair/Projects/Games/RedPandaEscape/bin/Debug/net8.0/Red Panda Escape.deps.json
+/home/eclair/Projects/Games/RedPandaEscape/bin/Debug/net8.0/Red Panda Escape.runtimeconfig.json
+/home/eclair/Projects/Games/RedPandaEscape/bin/Debug/net8.0/Red Panda Escape.dll
+/home/eclair/Projects/Games/RedPandaEscape/bin/Debug/net8.0/Red Panda Escape.pdb
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.dll
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/refint/Red Panda Escape.dll
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.pdb
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.genruntimeconfig.cache
+/home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/ref/Red Panda Escape.dll
