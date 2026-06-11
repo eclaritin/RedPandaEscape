@@ -16,3 +16,18 @@
 /home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.pdb
 /home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/Red Panda Escape.genruntimeconfig.cache
 /home/eclair/Projects/Games/RedPandaEscape/obj/Debug/net8.0/ref/Red Panda Escape.dll
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\bin\Debug\net8.0\Red Panda Escape.exe
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\bin\Debug\net8.0\Red Panda Escape.deps.json
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\bin\Debug\net8.0\Red Panda Escape.runtimeconfig.json
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\bin\Debug\net8.0\Red Panda Escape.dll
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\bin\Debug\net8.0\Red Panda Escape.pdb
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.AssemblyInfoInputs.cache
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.AssemblyInfo.cs
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.csproj.CoreCompileInputs.cache
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.sourcelink.json
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.dll
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\refint\Red Panda Escape.dll
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.pdb
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\Red Panda Escape.genruntimeconfig.cache
+C:\Users\spqr2\Programming Projects\VisualStudio\RedPandaEscape\obj\Debug\net8.0\ref\Red Panda Escape.dll
