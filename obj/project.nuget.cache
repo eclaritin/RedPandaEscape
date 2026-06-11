@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "68Mk7wn+qaE=",
+  "dgSpecHash": "v/MoVJcbjt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spqr2\\Programming Projects\\VisualStudio\\RedPandaEscape\\Red Panda Escape.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/eclair/Projects/Games/RedPandaEscape/Red Panda Escape.csproj",
+  "expectedPackageFiles": [
+    "/home/eclair/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.27/microsoft.netcore.app.host.linux-x64.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
