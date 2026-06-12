@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Red Panda Escape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5f698c6b851b76de6984dd78c3cc546ae61c72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eb56153535a67f3039644475480eae355d9c6ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Red Panda Escape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Red Panda Escape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
